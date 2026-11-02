@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nepathangka.github.io/himalayan-brushwork/sitemap.xml
